@@ -40,7 +40,7 @@ To work on this project, you will need the following:
 * Simulate the project to see the LED pattern.
 
 ## Circuit Schematic Diagram
-[!Schematic](https://i.imgur.com/tUnGMLH.jpeg)
+![Schematic](https://i.imgur.com/tUnGMLH.jpeg)
 
 ## Code Structure
 The code for this project is organized as follows:
