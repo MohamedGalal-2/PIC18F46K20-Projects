@@ -51,7 +51,7 @@ The code for this project is organized as follows:
 * MCAL_Layer: The Microcontroller Abstraction Layer (MCAL) is a key component in embedded software architecture, particularly in the context of AUTOSAR. The MCAL abstracts the hardware layer, providing a consistent interface for higher-level software components to interact with microcontroller peripherals and other hardware components. By isolating hardware-specific details, the MCAL promotes portability and reusability of software across different hardware platforms.
 * GPIO Layer: The General Purpose Input/Output (GPIO) Layer is a critical part of embedded systems and hardware abstraction. It provides a standardized way to configure and control GPIO pins on a microcontroller. This layer is responsible for managing the configuration, state, and behavior of these pins, enabling a variety of applications from simple LED blinking to complex control systems.
 
-![AUTOSAR](https://i0.wp.com/autosartutorials.com/wp-content/uploads/2019/10/Simplified-2BAUTOSAR-2BLayered-2BArchi.jpg?resize=300%2C229&ssl=1)
+![AUTOSAR](https://gi.de/fileadmin/GI/Hauptseite/Service/Lexikon/AUTOSAR_Figure2.jpg))
 <p>Fig: AUTOSAR's hierarchical software architecture</p>
 
 ## Usage
