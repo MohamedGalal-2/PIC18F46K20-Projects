@@ -37,7 +37,7 @@ Import the necessary microcontroller (PIC18F46K20) and other components.
 Set up your circuit design in Proteus.
 Compile and simulate your code to test your project.
 
-#### Projects
+### Projects
 Here's a list of the projects currently available in this repository:
 
 1. Dancer LED: A simple project that blinks an LED on and off.
