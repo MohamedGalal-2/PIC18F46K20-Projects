@@ -5,6 +5,7 @@ Welcome to the PIC18F46K20 Projects repository! This repository contains various
 - [Overview](#Overview)
 - [Getting Started](#Getting-Started)
 - [Projects](#Projects)
+  - [Dancer LED](https://github.com/MohamedGalal-2/PIC18F46K20-Projects/tree/main/Dancing_LED)
 - [Contributing](#Contributing)
 - [License](#License)
 
