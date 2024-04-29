@@ -49,7 +49,10 @@ The code for this project is organized as follows:
 * Main Code: Contains the main logic for controlling the LEDs.
 * ECU_Layer: The ECU Layer represents a segment of a system architecture designed to interact with and manage Electronic Control Units (ECUs). ECUs are microcontroller-based units responsible for controlling specific functions within a vehicle or other complex systems. This layer serves as an interface between software applications and the hardware components in the system.
 * MCAL_Layer: The Microcontroller Abstraction Layer (MCAL) is a key component in embedded software architecture, particularly in the context of AUTOSAR. The MCAL abstracts the hardware layer, providing a consistent interface for higher-level software components to interact with microcontroller peripherals and other hardware components. By isolating hardware-specific details, the MCAL promotes portability and reusability of software across different hardware platforms.
-* GPIO Layer: The General Purpose Input/Output (GPIO) Layer is a critical part of embedded systems and hardware abstraction. It provides a standardized way to configure and control GPIO pins on a microcontroller. This layer is responsible for managing the configuration, state, and behavior of these pins, enabling a variety of applications from simple LED blinking to complex control systems. 
+* GPIO Layer: The General Purpose Input/Output (GPIO) Layer is a critical part of embedded systems and hardware abstraction. It provides a standardized way to configure and control GPIO pins on a microcontroller. This layer is responsible for managing the configuration, state, and behavior of these pins, enabling a variety of applications from simple LED blinking to complex control systems.
+
+![AUTOSAR](https://i0.wp.com/autosartutorials.com/wp-content/uploads/2019/10/Simplified-2BAUTOSAR-2BLayered-2BArchi.jpg?resize=300%2C229&ssl=1)
+<p>Fig: AUTOSAR's hierarchical software architecture</p>
 
 ## Usage
 After setting up the project and uploading the code, you can see the LED animation in action. If using real hardware, ensure proper connections and power supply. If using Proteus, ensure the simulation runs without errors.
