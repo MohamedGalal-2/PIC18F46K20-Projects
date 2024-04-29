@@ -24,11 +24,13 @@ To get started with this repository, you'll need the following:
 * Basic Knowledge: Understanding of C programming and basic electronics.
 
 ### Setting up the tools
-Setting Up MPLAB X IDE
+
+#### Setting Up MPLAB X IDE
 Install MPLAB X IDE from the Microchip website.
 Install the XC8 compiler.
 If working with real hardware, set up your PICkit programmer/debugger.
-Setting Up Proteus
+
+##### Setting Up Proteus
 Install Proteus from the Labcenter Electronics website.
 Load a project or create a new one.
 Import the necessary microcontroller (PIC18F46K20) and other components.
