@@ -41,6 +41,7 @@ To work on this project, you will need the following:
 
 ## Circuit Schematic Diagram
 ![Schematic](https://i.imgur.com/tUnGMLH.jpeg)
+<p>Fig: Schematic Circuit Diagram</p>
 
 ## Code Structure
 The code for this project is organized as follows:
