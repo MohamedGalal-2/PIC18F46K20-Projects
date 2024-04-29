@@ -10,8 +10,10 @@ Welcome to the PIC18F46K20 Projects repository! This repository contains various
 - [Contributing](#Contributing)
 - [License](#License)
 
+<div>
 ### Overview
 This repository contains a collection of projects and code samples designed to demonstrate the capabilities of the PIC18F46K20 microcontroller. The projects vary in complexity, ranging from simple LED blinkers to more complex sensor-based systems. This repository is intended for hobbyists, students, and professionals interested in microcontroller-based projects.
+</div>
 
 ### Getting Started
 To get started with this repository, you'll need the following:
