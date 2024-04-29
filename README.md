@@ -4,6 +4,7 @@ Welcome to the PIC18F46K20 Projects repository! This repository contains various
 ## Table of Contents
 - [Overview](#Overview)
 - [Getting Started](#Getting-Started)
+- [Setting Up the tools](#Setting-up-the-tools)
 - [Projects](#Projects)
   - [Dancer LED](https://github.com/MohamedGalal-2/PIC18F46K20-Projects/tree/main/Dancing_LED)
 - [Contributing](#Contributing)
@@ -22,6 +23,7 @@ To get started with this repository, you'll need the following:
 * Basic Electronic Components: For real hardware projects (e.g., LEDs, resistors, buttons, sensors, etc.).
 * Basic Knowledge: Understanding of C programming and basic electronics.
 
+### Setting up the tools
 Setting Up MPLAB X IDE
 Install MPLAB X IDE from the Microchip website.
 Install the XC8 compiler.
