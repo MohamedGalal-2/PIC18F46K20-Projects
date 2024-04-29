@@ -7,6 +7,7 @@ Welcome to the Dancing LED project! This project demonstrates a fun LED animatio
 - [Project Overview](#Project-Overview)
 - [Requirements](#Requirements)
 - [Setup Instructions](#Steup-Instructions)
+- [Circuit Schematic Diagram](#Circuit-Schematic-Diagram)
 - [Code Structure](#Code-Structure)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
@@ -38,6 +39,9 @@ To work on this project, you will need the following:
 * Compile the code in MPLAB X IDE and upload it to Proteus.
 * Simulate the project to see the LED pattern.
 
+## Circuit Schematic Diagram
+[Schematic](https://i.imgur.com/tUnGMLH.jpeg)
+
 ## Code Structure
 The code for this project is organized as follows:
 
@@ -47,14 +51,15 @@ Timing/Delays: Controls the timing for the LED animations.
 Usage
 After setting up the project and uploading the code, you can see the LED animation in action. If using real hardware, ensure proper connections and power supply. If using Proteus, ensure the simulation runs without errors.
 
-Contributing
+## Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
 Fork the repository.
 Create a new branch for your changes.
 Make your modifications and test them.
 Submit a pull request with a description of the changes.
-License
+
+## License
 This project is licensed under the MIT License. Please review the license for more details on permitted use and distribution.
 
 Contact
